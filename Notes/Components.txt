@@ -1,0 +1,12 @@
+Class		Container 	StateFul
+
+Function	Presentational	Stateless
+
+
+Component
+
+	UI (View) - render Function
+	CSS
+	State - Maintaining Data Inside Component
+	Props - Taking inputs from outside
+	Behavior - Logic
